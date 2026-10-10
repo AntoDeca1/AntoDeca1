@@ -58,4 +58,4 @@ Combining personalized interest modeling and news virality to capture temporal d
 
 ## Background
 
-MSc in **Artificial Intelligence and Data Science** at Politecnico di Bari, **110/110 with honors** (2024). Visiting research student at the University of Klagenfurt for my master's thesis, and participant in the **ACM Europe School on Recommender Systems 2025** in Vienna.
+MSc in **Artificial Intelligence and Data Science** at Politecnico di Bari, **110/110 with honors** (2024). Visiting research student at the University of Klagenfurt for my master's thesis.
