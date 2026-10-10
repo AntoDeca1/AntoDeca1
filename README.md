@@ -10,7 +10,7 @@
 
 I work on recommender systems and machine learning, with a focus on sequential recommendation, item cold-start, and the connection between research and production.
 
-[LinkedIn ↗](https://www.linkedin.com/in/antonio-de-candia-64a809289/) &nbsp; · &nbsp; [Research](#selected-research) &nbsp; · &nbsp; [Projects](#projects) &nbsp; · &nbsp; [All repositories ↗](https://github.com/AntoDeca1?tab=repositories)
+[Portfolio ↗](https://antodeca1.github.io/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/antonio-de-candia-64a809289/) &nbsp; · &nbsp; [Research](#selected-research) &nbsp; · &nbsp; [Projects](#projects) &nbsp; · &nbsp; [All repositories ↗](https://github.com/AntoDeca1?tab=repositories)
 
 ## Selected research
 
