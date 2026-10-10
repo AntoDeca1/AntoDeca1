@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Antonio De Candia — Data Scientist. Recommender systems. Research to production." src="assets/header-light.svg" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=2">
+  <img alt="Antonio De Candia — Data Scientist. Recommender systems." src="assets/header-light.svg?v=2" width="1200">
 </picture>
 
 <br>
@@ -59,7 +59,3 @@ Combining personalized interest modeling and news virality to capture temporal d
 ## Background
 
 MSc in **Artificial Intelligence and Data Science** at Politecnico di Bari, **110/110 with honors** (2024). Visiting research student at the University of Klagenfurt for my master's thesis, and participant in the **ACM Europe School on Recommender Systems 2025** in Vienna.
-
----
-
-Interested in recommender systems, applied ML, or research collaboration? [Connect on LinkedIn ↗](https://www.linkedin.com/in/antonio-de-candia-64a809289/)
